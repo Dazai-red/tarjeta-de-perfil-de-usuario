@@ -5,8 +5,8 @@
 .background{
     margin: 0;
     background-color: hsl(185, 75%, 39%);
-    background-image: url('./assets/images/top-circle.svg'),
-                      url('./assets/images/bottom-circle.svg');
+    background-image: url('../assets/images/top-circle.svg'),
+                      url('../assets/images/bottom-circle.svg');
     background-position:  -31px -516px, 1045px 400px;
     background-repeat: no-repeat;
     display: flex;
